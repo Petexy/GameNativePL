@@ -52,6 +52,7 @@
     <string name="intermediate">Mellemtrin</string>
     <string name="performance">Ydelse</string>
     <string name="denuvo">Denuvo</string>
+    <string name="extreme">Extreme</string>
     <string name="unity">Unity</string>
     <string name="unity_mono_bleeding_edge">Unity Mono Bleeding Edge</string>
     <string name="title_ubuntufs">Ubuntu FS</string>
@@ -750,7 +751,7 @@
     <!-- TODO: Manual review - Container Configuration: Steam Integration (missing) -->
     <string name="use_legacy_drm">Brug ældre DRM</string>
     <string name="unpack_files">Udpak filer</string>
-    <string name="unpack_files_description">Brug kun, hvis du får \'Application Load Error\'. Kan reducere FPS.</string>
+    <string name="unpack_files_description">Brug kun, hvis du får \'Application Load Error 3:0000065432\'.</string>
 
     <!-- TODO: Manual review - Library Status -->
     <string name="library_status_ready">Klar</string>
